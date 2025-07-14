@@ -1,7 +1,5 @@
 # n8n
 
-Here's a **complete beginner to advanced roadmap** for learning **n8n** (a powerful open-source workflow automation tool):
-
 ---
 
 ## 🔰 Beginner Level
